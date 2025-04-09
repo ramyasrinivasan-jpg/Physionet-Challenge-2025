@@ -1,0 +1,11 @@
+einops==0.8.1
+h5py==3.12.1
+imbalanced_learn==0.13.0
+joblib==1.4.2
+numpy==2.2.4
+pandas==2.2.3
+rotary_embedding_torch==0.8.6
+scipy==1.15.2
+tqdm==4.66.5
+transformers==4.50.3
+wfdb==4.3.0
